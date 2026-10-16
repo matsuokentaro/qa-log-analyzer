@@ -1,0 +1,7 @@
+INFO Application Start
+WARNING Slow Response
+INFO Connect DB
+WARNING Cache Delay
+ERROR Database Connection Failed
+ERROR Timeout
+INFO End
